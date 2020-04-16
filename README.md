@@ -9,7 +9,7 @@ To run this code using g++ compiler:
 
 The compiled CLI program take two arguments:
 1. Target IP address or hostname
-2. 'y' or 'n' for printing TTL statistic results
+2. 'y' or 'n' for printing RTT statistic results
 
 To run this program:
 - Use `sudo ./ping.out <address> y/n`
