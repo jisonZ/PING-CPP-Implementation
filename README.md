@@ -18,8 +18,9 @@ Clean Compiled file:
 - Use `make clean`
 
 Example:
-Input: `sudo ./ping.out www.google.com y`
-Output: ```
+-Input: `sudo ./ping.out www.google.com y`
+-Output: 
+```
 Resolving DNS..
 
 Trying to connect to 'www.google.com' IP: 172.217.0.4
