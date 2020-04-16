@@ -84,7 +84,7 @@ int main(int argc, char *argv[])
     {
         printf("Check Argument Format: \n");
         printf("%s <address> y/n\n", argv[0]);
-        printf("Please enter hostname or IP address for <address> and enter y or n for printing TTL stat results \n");
+        printf("Please enter hostname or IP address for <address> and enter y or n for printing RTT stat results \n");
         return 0;
     }
     
